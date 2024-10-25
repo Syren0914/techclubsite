@@ -5,3 +5,5 @@ streamlit_calendar\__pycache__
 pages\__pycache__
 __pycache__
 .streamlit\secrets.toml
+config.bat
+node_modules
